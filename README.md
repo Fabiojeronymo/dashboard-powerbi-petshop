@@ -4,6 +4,8 @@ Este projeto foi desenvolvido como parte do curso de Power BI da **Alura**, no q
 
 O objetivo foi aplicar os conhecimentos de Power BI na prática, utilizando um cenário realista para analisar **faturamento, comportamento de compra e desempenho por região**.
 
+![dashboard-powerbi-petshop](imagens/gatitopetshop-dashboard.jpge)
+
 ## 🧠 Objetivos do Projeto
 
 - Visualizar o total de faturamento por gênero e por bairro
